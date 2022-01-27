@@ -13,3 +13,7 @@ Clone it and then run ```npm start```
 This is not an original code, the idea comes from:
 https://reactjs.org/tutorial/tutorial.html
 I just used it to practice some skills.
+
+<p align="center">
+  <img src="./assets/Preview.jpg" width="500" title="Color flipper">
+</p>
