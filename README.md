@@ -15,5 +15,5 @@ https://reactjs.org/tutorial/tutorial.html
 I just used it to practice some skills.
 
 <p align="center">
-  <img src="./assets/Preview.jpg" width="500" title="Color flipper">
+  <img src="./assets/Preview.jpg" width="500" title="Tic tac toe">
 </p>
